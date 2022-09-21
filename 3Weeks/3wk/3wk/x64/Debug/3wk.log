@@ -1,0 +1,6 @@
+﻿  3wk.cpp
+C:\Users\82103\3Dprogramming\3wk\3wk\3wk.cpp(53,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82103\3Dprogramming\3wk\3wk\3wk.cpp(53,24): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82103\3Dprogramming\3wk\3wk\3wk.cpp(41,24): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\82103\3Dprogramming\3wk\3wk\3wk.cpp(41,16): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+  3wk.vcxproj -> C:\Users\82103\3Dprogramming\3wk\x64\Debug\3wk.exe
