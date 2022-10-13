@@ -1,0 +1,17 @@
+﻿  6wk.cpp
+C:\Users\82103\3Dprogramming\6wk\6wk\6wk.cpp(37,16): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\82103\3Dprogramming\6wk\6wk\6wk.cpp(87,69): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\82103\3Dprogramming\6wk\6wk\6wk.cpp(88,68): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\82103\3Dprogramming\6wk\6wk\6wk.cpp(129,25): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\82103\3Dprogramming\6wk\6wk\6wk.cpp(133,24): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\82103\3Dprogramming\6wk\6wk\6wk.cpp(140,24): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\82103\3Dprogramming\6wk\6wk\6wk.cpp(220,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  6wk.vcxproj -> C:\Users\82103\3Dprogramming\6wk\x64\Debug\6wk.exe
