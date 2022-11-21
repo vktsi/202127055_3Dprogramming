@@ -1,0 +1,9 @@
+﻿  12wk.cpp
+C:\Users\82103\source\repos\12wk\12wk\MuSoenMath.h(26,18): error C2065: 'PI': 선언되지 않은 식별자입니다.
+C:\Users\82103\source\repos\12wk\12wk\12wk.cpp(42,16): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\82103\source\repos\12wk\12wk\12wk.cpp(93,58): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82103\source\repos\12wk\12wk\12wk.cpp(94,58): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82103\source\repos\12wk\12wk\12wk.cpp(116,25): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\82103\source\repos\12wk\12wk\12wk.cpp(120,24): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\82103\source\repos\12wk\12wk\12wk.cpp(127,24): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\82103\source\repos\12wk\12wk\12wk.cpp(209,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
